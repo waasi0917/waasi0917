@@ -1,6 +1,6 @@
 ### Hi, I'm Waasi 👋
 
-**AI Engineer at [CompScience](https://www.compscience.com)** (Series B InsurTech), building production LLM systems: agentic document triage, multimodal hazard detection, and model evaluation harnesses. MS in Electrical Engineering (AI/ML) from Columbia, Tesla Scholar.
+**AI Engineer at [CompScience](https://www.compscience.com)** (Series B InsurTech), building production LLM systems: agentic document triage, multimodal hazard detection, and model evaluation harnesses. MS in Electrical Engineering (AI/ML) from Columbia(NYC), Tesla Scholar.
 
 **What I work on**
 - 🤖 Agentic LLM pipelines for Insurance
