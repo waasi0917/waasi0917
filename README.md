@@ -3,7 +3,7 @@
 **AI Engineer at [CompScience](https://www.compscience.com)** (Series B InsurTech), building production LLM systems: agentic document triage, multimodal hazard detection, and model evaluation harnesses. MS in Electrical Engineering (AI/ML) from Columbia, Tesla Scholar.
 
 **What I work on**
-- 🤖 Agentic LLM pipelines: event-driven triage that automated ~80% of workers' comp submissions
+- 🤖 Agentic LLM pipelines for Insurance
 - 👁️ Multimodal AI: cost-aware vision + LLM validation for real-time hazard detection
 - 📊 Evaluation: synthetic-data harnesses to benchmark Claude, Gemini and Bedrock models
 - 📈 Time-series and quant ML: forecasting under concept drift, portfolio optimization
@@ -18,4 +18,4 @@
 
 Most of my day-to-day work is in private repos, so the graph shows the activity but not the code.
 
-📫 [LinkedIn](https://linkedin.com/in/YOUR-HANDLE) · waj2117@columbia.edu
+📫 [LinkedIn](https://www.linkedin.com/in/waasijagirdar/) · waj2117@columbia.edu
